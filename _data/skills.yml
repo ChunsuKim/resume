@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Language
+  description: <li> Swift ■■■■□ </li> Swift의 기본 문법을 알고 있으며 Swift의 여러 예제 코드들을 작성하고 상용앱을 클론 한 앱을 제작한 경험이 있습니다.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Framework
+  description: <li> CocoaTouch ■■■■□ </li> CocoaTouch를 활용하여 다양한 iOS 앱을 협업을 통해 개발해 본 경험이 있습니다.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Collaboration Tool
+  description: <li> Git/GitHub ■■■■□ </li> Git/GitHub을 활용한 협업 경험이 있으며, 개인 프로젝트로 Git/GitHub을 관리할 수 있습니다. <li> Slack ■■■■□ </li> Slack을 활용한 협업 경험이 있으며, Webhook 기능을 사용하여 GitHub 저장소에 변화가 생겼을 때 알림을 받아 프로젝트를 관리할 수 있습니다.
