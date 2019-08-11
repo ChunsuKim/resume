@@ -2,14 +2,20 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: 야놀자 클론 앱 프로젝트 iOS 어플리케이션 서비스
+  role: iOS 개발자
+  duration: 2019.07.01 &mdash; 2019.08.10
+  url: "https://github.com/final-project-yanolja/iOS_Team"
+  description: <li> 구현 부분 - MainViewController, LoginViewController, UserViewController, JSON Data parsing </li> <li>Swift를 활용하여 야놀자 클론 어플을 개발(iOS 3명, front-end 4명, back-end 3명) 총 10명이 한 팀이 되어 기획부터 개발, 발표까지 경험</li> <li>협업과정에서 GitHub, Trello, Google Drive, Slack 등을 활용하여 협업</li> <li>스프린트 단위로 나누어 프로젝트를 진행하였으며, 하나의 스프린트가 끝날 때마다 기능을 하나씩 추가하고 개선함</li> <li> CollectionView 와 TableView를 능숙하게 사용하여 UI를 구성하였으며, 부족한 부분은 그때 그때 학습하여 활용 및 적용함 </li> <li> Back-end 의 JSON data를 Codable을 활용하여 parsing 하였으며 만들어 놓은 UI에 적절하게 잘 적용함 </li> <li> Dynamic Animation 및 각종 animation을 적절히 활용하여 기존 야놀자 상용앱과 90% 정도 일치하게 구현함 </li> <li>Google Map, Place API를 통해 검색기능을 추가하였으며, 외부 라이브러리와 Rest API의 활용에 대해 많이 배움</li> <li>Back-end 에서 AWS를 활용하여 데이터를 제공해주어 Rest API의 활용에 대해 익숙해짐</li> <li>사용기술 - Swift, Git, GitHub, Trello, Slack</li>
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
+- project: 여행 기록 iOS 어플리케이션 서비스
+  role: Co-Founder & Organizer
+  duration: 2007 &mdash; Present
+  # url: "#"
+  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+- project: 메모 및 일기장 iOS 어플리케이션 서비스
   role: Co-Founder & Organizer
   duration: 2007 &mdash; Present
   # url: "#"
