@@ -1,13 +1,21 @@
 # Degree
-- degree: Bachelor of Business, Finance
-  uni: Baylor University
-  year: 2008 &mdash; 2012
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: iOS 개발과정 수료
+  uni: 패스트캠퍼스
+  year: 2019.03 &mdash; 2019.08
+  # awards:
+  #  - award: Summa Cumme Laude graduate
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: HanKamer School of Business, Finance 졸업 (미국, 텍사스)
+  uni: Baylor University
+  year: 2009.08 &mdash; 2012.05
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
+
+- degree: Business (미국, 텍사스)
+  uni: Kilgore College
+  year: 2007.08 &mdash; 2009.05
+
+- degree: 어학연수 (미국, 시카고)
+  uni: IIT(Illinois Institute of Technology) Aspect
+  year: 2006.09 &mdash; 2007.07
