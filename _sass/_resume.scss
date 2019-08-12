@@ -2,10 +2,16 @@
 // ---------------------------------------/
 
 // util
+* {
+  font-family: monospace;
+}
 
 .section-header {
   @include section_border;
   margin-bottom: 1.5rem;
+  border-top: 4px solid #819FF7;
+  border-bottom: 2px solid #819FF7;
+
 
   h2 {
     @include sans;
@@ -55,7 +61,7 @@
 
     .header-title {
       @include sans;
-      font-weight: 300;
+      font-weight: 500;
       font-size: 1.75rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
@@ -142,7 +148,7 @@
     margin: 0 0 .75rem;
     font-size: 1.5rem;
     letter-spacing: -.05rem;
-    line-height: 1;
+    line-height: 1.5;
   }
 
   .resume-item-details {
@@ -199,7 +205,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  body { font-size: 12px; line-height: 1rem; font-family: none;}
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
@@ -214,7 +220,9 @@
   }
   .content-section {
     margin: 0 0 1rem;
-    .resume-item { margin-bottom: 1rem; }
+    .resume-item {
+      margin-bottom: 1rem;
+    }
     .resume-item-title {
       font-size: 16px;
       line-height: .7em;
@@ -224,7 +232,7 @@
       font-size: 12px;
       margin: 0 0 .75rem;
       line-height: .7em;
-      font-style:italic;
+      font-style: italic;
 
       &.award-title {
         font-size: 11px;
