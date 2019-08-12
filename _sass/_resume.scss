@@ -19,6 +19,7 @@
     font-size: 1.75rem;
     letter-spacing: -.05rem;
     margin: 0;
+    color: #152d77;
   }
 }
 
@@ -183,7 +184,7 @@
 // footer styles
 
 .page-footer {
-  border-top: 4px solid #c7c7c7;
+  border-top: 4px solid #819FF7;
   padding-top: 1.5rem;
   text-align: center;
   margin-bottom: 3rem;
@@ -216,7 +217,7 @@
   .section-header {
     @include section_border_thin;
     margin-bottom: 1rem;
-    h2 { font-size: 1.2rem; line-height: 1.5rem; }
+    h2 { font-size: 1.2rem; line-height: 1.5rem;}
   }
   .content-section {
     margin: 0 0 1rem;
